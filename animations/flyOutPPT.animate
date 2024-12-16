@@ -1,0 +1,18 @@
+/*
+  Name:			FlyOutPPT
+  Type:			Exit
+  TypeSecond:   Sport
+  Description:
+  Version:		2.0
+  locale:		{"zh-Hans":"飞出(PPT)", "en-US":"FlyOut(PPT)"}
+  Class:        FlyOutPPT
+  Parameter:   	<^   {"Options":{"direction":0}}   $>
+ */
+
+@keyframes flyOutPPT {
+
+}
+
+.flyOutPPT{
+	animation-duration: 1s;
+}
